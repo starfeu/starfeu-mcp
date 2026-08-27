@@ -1,1 +1,1 @@
-# starfeu-mcp
+# StarFEU-mcp
