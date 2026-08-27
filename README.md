@@ -1,1 +1,1 @@
-# StarFEU-mcp
+# StarFEU-MCP
